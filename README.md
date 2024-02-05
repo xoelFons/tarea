@@ -1,6 +1,6 @@
 Tarea:
 
-#Ahora estoy usando SSH, flipa meu.
+# Ahora estoy usando SSH, flipa meu.
 
 1.- Descarga la imagen ubuntu y comprueba que está en tu equipo
 
