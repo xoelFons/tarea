@@ -1,5 +1,7 @@
 Tarea:
 
+#Ahora estoy usando SSH, flipa meu.
+
 1.- Descarga la imagen ubuntu y comprueba que está en tu equipo
 
 El comando necesario para descargar la imagen de ubuntu es el siguiente:
